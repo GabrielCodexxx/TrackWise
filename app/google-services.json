@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "140259462954",
+    "project_id": "test-a40ac",
+    "storage_bucket": "test-a40ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140259462954:android:f5a81dcf082db8c93dd853",
+        "android_client_info": {
+          "package_name": "com.example.trackwise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVRfbkw6opNq8ma_299b_kRsZ-nP9cZPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

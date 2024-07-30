@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Track Wise</string>
+    <string name="open_nav">Open Navigation bar</string>
+    <string name="close_nav">Closed Navigation bar</string>
+</resources>
