@@ -1,0 +1,5 @@
+com.example.trackwise.test.app-core-1.6.1-0 C:\Users\porti\.gradle\caches\transforms-4\2ba3ab26ef351a28c7fde14437de833d\transformed\core-1.6.1\res
+com.example.trackwise.test.app-androidTest-1 C:\Users\porti\AndroidStudioProjects\TrackWise\app\build\generated\res\resValues\androidTest\debug
+com.example.trackwise.test.app-mergeDebugAndroidTestResources-2 C:\Users\porti\AndroidStudioProjects\TrackWise\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.trackwise.test.app-mergeDebugAndroidTestResources-3 C:\Users\porti\AndroidStudioProjects\TrackWise\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.trackwise.test.app-debugAndroidTest-4 C:\Users\porti\AndroidStudioProjects\TrackWise\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
